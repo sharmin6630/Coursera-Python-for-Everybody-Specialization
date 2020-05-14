@@ -11,4 +11,4 @@ This specialisation course is provided by the University of Michigan on coursera
 - <a href="https://www.coursera.org/learn/python-databases">Using Databases with Python</a>
 - <a href="https://www.coursera.org/learn/python-data-visualization">Capstone: Retrieving, Processing, and Visualizing Data with Python</a>
 
-**Only exercises requiring written code are included in this repository**
+**Only assignments requiring written code are included in this repository**

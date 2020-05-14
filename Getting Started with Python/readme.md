@@ -1,6 +1,6 @@
 # **Getting Started with Python**
 - input
 - output
-- conditional statement
-- loop
+- conditional statements
+- loops
 - try/except

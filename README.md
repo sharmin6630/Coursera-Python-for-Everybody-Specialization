@@ -1,6 +1,2 @@
-# Python Introduction
-- input
-- output
-- conditional statement
-- loop
-- try/except
+## Programming for Everybody
+- # Getting Started with Python

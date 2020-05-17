@@ -1,4 +1,4 @@
-## **Capstone ##
+## **Capstone** ##
 
 - Building a Search Engine
 - Exploring Data Sources (Project)

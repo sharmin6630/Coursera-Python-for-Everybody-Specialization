@@ -1,5 +1,4 @@
-### {**Using the Google Places API with a Database and
-Visualizing Data on Google Map**
+### **Using the Google Places API with a Database and Visualizing Data on Google Map** ###
 
 In this project, we are using the Google geocoding API to clean up some user-entered geographic locations of university names and then placing the data on a Google Map.
 
@@ -93,5 +92,5 @@ myData = [
 
 This is a JavaScript list of lists.  The syntax for JavaScript list constants is very similar to Python so the syntax should be familiar to you.
 
-Simply open where.html in a browser to see the locations.  You can hover over each map pin to find the location that the gecoding API returned for the user-entered input.  If you cannot see any data when you open the where.html file, you might want to check the JavaScript or developer console for your browser.} ###
+Simply open where.html in a browser to see the locations.  You can hover over each map pin to find the location that the gecoding API returned for the user-entered input.  If you cannot see any data when you open the where.html file, you might want to check the JavaScript or developer console for your browser.
 

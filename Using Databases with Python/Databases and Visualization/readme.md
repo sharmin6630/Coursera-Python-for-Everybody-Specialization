@@ -70,6 +70,8 @@ database:
 Mac: python3 geoload.py
 Win: geoload.py
 
+![GitHub Logo](Python-for-Everybody/Using Databases with Python/Databases and Visualization/geodump.PNG)
+Format: ![Alt Text](url)
 Found in database  Northeastern University
 
 Found in database  University of Hong Kong, Illinois Institute of Technology, Bradley University

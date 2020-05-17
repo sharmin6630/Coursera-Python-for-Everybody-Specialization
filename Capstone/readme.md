@@ -1,4 +1,4 @@
-## **Capstone** ##
+## **Capstone: Retrieving, Processing, and Visualizing Data with Python** ##
 
 - Building a Search Engine
 - Exploring Data Sources (Project)

@@ -6,3 +6,5 @@
 - Accessing New Data Sources (Project)
 - Visualizing Email Data
 - Visualizing new Data Sources (Project)
+
+**Only assigned tasks' solution are provided**

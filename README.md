@@ -3,6 +3,8 @@
 ## **Details on Specialization**
 This specialization course is provided by the University of Michigan on coursera which consists of 4 courses and 1 capstone project.
 
+Instructor : [Charles Russell Severance](http://www.dr-chuck.com/)
+
 ### **Links to coursera Courses by the University of Michigan**
 - <a href="https://www.coursera.org/learn/python">Getting Started with Python</a><br />
 - <a href="https://www.coursera.org/learn/python-data">Python Data Structures</a><br />

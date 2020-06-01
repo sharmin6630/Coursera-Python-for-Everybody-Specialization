@@ -14,4 +14,4 @@ Instructor : [Charles Russell Severance](http://www.dr-chuck.com/)
 
 ## Contents
 
-**Only the assignments requiring written codes are included in this repository**
+*Only the assignments requiring written codes are included in this repository*

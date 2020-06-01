@@ -5,11 +5,13 @@ This specialization course is offered by University of Michigan on coursera whic
 
 Instructor : [Charles Russell Severance](http://www.dr-chuck.com/)
 
-### **Links to coursera Courses by the University of Michigan**
+## **Courses**
 - <a href="https://www.coursera.org/learn/python">Getting Started with Python</a><br />
 - <a href="https://www.coursera.org/learn/python-data">Python Data Structures</a><br />
 - <a href="https://www.coursera.org/learn/python-network-data">Using Python to Access Web Data</a><br />
 - <a href="https://www.coursera.org/learn/python-databases">Using Databases with Python</a>
 - <a href="https://www.coursera.org/learn/python-data-visualization">Capstone: Retrieving, Processing, and Visualizing Data with Python</a>
 
-**Only the assignments requiring written code are included in this repository**
+## Contents
+
+**Only the assignments requiring written codes are included in this repository**

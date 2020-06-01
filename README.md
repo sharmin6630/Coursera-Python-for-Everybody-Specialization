@@ -1,7 +1,7 @@
 # [Python for Everybody Specialization](https://www.coursera.org/specializations/python)
 
-## **Details on Specialization**
-This specialization course is provided by the University of Michigan on coursera which consists of 4 courses and 1 capstone project.
+## **About**
+This specialization course is offered by University of Michigan on coursera which consists of 4 courses and 1 capstone project.
 
 Instructor : [Charles Russell Severance](http://www.dr-chuck.com/)
 
